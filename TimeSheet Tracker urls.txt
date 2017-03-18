@@ -1,0 +1,10 @@
+Index Page:
+
+	http://localhost:8080
+
+URL to get the timesheets:
+
+	http://localhost:8080/track
+
+REST URL to hit the DB to fetch the records:
+	http://localhost:8080/db/{{empId}}
